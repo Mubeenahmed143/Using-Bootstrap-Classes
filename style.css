@@ -1,0 +1,199 @@
+.main{
+    background-image: url(./background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+    justify-content: center;
+}
+.btn{
+    display: flex !important;
+    justify-content: center !important;
+    text-align: center !important;
+}
+#NEET{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: maroon;
+}
+#touch{
+    border-radius: 30px;
+    background-color: black;
+    color: aliceblue;
+    box-shadow: darkgreen;     
+}
+#search{
+    border: 2px groove green;
+    border-radius: 30px;
+    height: 50px;
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+#box{
+    background-image: url(./background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#girl{
+    height: 450px;
+    width: 1000px;
+    border-radius: 300px;
+    margin-top: 30px;
+}
+#navbar{
+    background-color: black !important;
+}
+#text{
+    color: white !important;
+}
+
+#course,#lorem{
+    text-align: center;
+}
+#m1{
+    float:left;
+    padding-right: 30px;
+}
+#he2{
+    text-decoration: underline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+#pr1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+#faculty{
+    /* border: 1px groove black ; */
+    height: 250px ;
+}
+#m2{
+    float:right;
+    padding-right: 30px;
+    margin-bottom: 14px;
+    height: 250px ;
+    width: 250px;
+}
+#degree{
+        /* border: 1px groove black ; */
+        height: 280px ;   
+}
+#rank{
+    /* border: 1px groove black ; */
+        height: 280px ; 
+}
+#m3{
+    float: left;
+    height: 150px;
+}
+#m4{
+    float: right;
+    height: 200px;
+}
+#he1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#he2{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 0px;
+}
+#he4{
+    /* text-align: center; */
+    text-decoration: underline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+}
+#pr4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+#pr2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin-left: 135px;
+}
+#he3{
+    
+    text-decoration: underline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 250px;
+}
+#pr3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin-left: 20px;
+}
+#sketch{
+    display: flexbox;
+    height: 200px;
+    width: 100%;
+}
+#slastdiv{
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid black; */
+    height: 300px;
+    background-color: black;
+}
+#ld1,#ld2,#ld3{
+    /* border: 2px solid black; */
+    height: 300px;
+    width: 450px;   
+}
+#ld11{
+    color: white;
+    font-weight: bold;
+    font-size: 43px;
+    text-align: center;
+    margin-top: 20px;
+}
+#name2{
+    height: 20px;
+    width: 190px;
+    margin-left: 120px;
+}
+#name1{
+    height: 35px;
+    width: 250px;
+    margin-left: 120px;
+}
+button{
+    height: 30px;
+    width: 150px;
+    margin-left: 120px;
+    background-color: skyblue;
+}
+#hd1{
+    color: white;
+    font-weight: bold;
+    font-size: 45px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+#hd2{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder; 
+    color: darkcyan;  
+}
+#lmk{
+    height: 100px;
+    width: 150px;
+    border: 6px dotted yellow;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+#follow{
+    font-size: 50px;
+    color: aliceblue;
+}
+#icon{
+    font-size: 30px;
+}
